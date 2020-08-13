@@ -15,7 +15,7 @@ import com.game.src.main.classes.EntityA;
 import com.game.src.main.classes.EntityB;
 
 public class Game extends Canvas implements Runnable {
-	
+	//This is the main java class
 	private static final long serialVersionUID = 1L;
 	public static final int WIDTH = 400;
 	public static final int HEIGHT = WIDTH / 12 * 9;
